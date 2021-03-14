@@ -1,3 +1,3 @@
-https://github.com/sahadz/pyrogram/archive/asyncio.zip
+pyrogram
 tgcrypto
 aria2p
